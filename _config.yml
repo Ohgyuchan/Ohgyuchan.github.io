@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: "https://Ohgyuchan.github.io"
+url: https://Ohgyuchan.github.io
 baseurl: /project
 
 # variables
