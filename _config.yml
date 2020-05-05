@@ -2,7 +2,7 @@
 title: 9yu's pages
 description: Jekyll Theme Minimal Resume
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://Ohgyuchan.github.io/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: http://Ohgyuchan.github.io/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Mauricio Urraco
