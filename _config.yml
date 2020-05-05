@@ -1,7 +1,7 @@
 # Site settings
 title: 9yu's pages
 description: Resume Website
-baseurl: "/post.md" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: http://Ohgyuchan.github.io # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
