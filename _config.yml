@@ -20,7 +20,7 @@ title                    : "9yu's IT blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GITHUB PAGE"
-description              : "An amazing website."
+description              : "9gyu's amanzing website"
 url                      : https://Ohgyuchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
